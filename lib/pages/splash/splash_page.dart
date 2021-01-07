@@ -24,7 +24,10 @@ class _SplashPageState extends State<SplashPage> {
     return Scaffold(
       body: Container(
         child: Center(
-          child: Text("DEVSTREAM"),
+          child: Text(
+            "DEVSTREAM",
+            style: TextStyle(fontSize: 40, color: Colors.red),
+          ),
         ),
       ),
     );
