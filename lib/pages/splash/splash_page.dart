@@ -25,7 +25,7 @@ class _SplashPageState extends State<SplashPage> {
       body: Container(
         child: Center(
           child: Text(
-            "DEVSTREAM",
+            "DEVSTEAM",
             style: TextStyle(fontSize: 40, color: Colors.red),
           ),
         ),
